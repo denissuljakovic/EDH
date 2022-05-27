@@ -1,0 +1,53 @@
+.register {
+  height: 50vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2cm;
+}
+.rcontainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #d0d0d0;
+  padding: 30px;
+  width:600px;
+}
+.rBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.register__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  width: 540px;
+  border: none;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.register__google {
+  background-color: #4981dc;
+}
+.register div {
+  margin-top: 5px;
+}
+.Button{
+  size: large;
+}
+
+.content {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.content h3 {
+  font-size: 1.25rem;
+  color: #2c292b;
+}
+.register{
+  margin-top: 0cm;
+}
+

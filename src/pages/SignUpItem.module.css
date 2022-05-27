@@ -1,0 +1,29 @@
+.Button{
+  size: large;
+}
+
+.content{
+  padding-left: 200px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  max-width: 1000px;
+  color: rgb(97, 97, 97);
+  margin-bottom: 0cm;
+  background-repeat: no-repeat;
+
+}
+h4{  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  padding-bottom:5px;
+padding-top: 10px;}
+  
+.label{
+  display: block;
+  font: inherit;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  width: 80%;
+  color: black;
+}

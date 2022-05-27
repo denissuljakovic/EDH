@@ -1,0 +1,9 @@
+.Button{
+  size: large;
+}
+.content{
+  padding-left: 220px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 1000px;
+}

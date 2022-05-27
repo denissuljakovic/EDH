@@ -1,0 +1,63 @@
+{
+  "homepage": "https://github.com/denissuljakovic/EDH.git",
+  "name": "our-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/firestore-types": "^2.5.0",
+    "@reach/router": "^1.3.4",
+    "@react-navigation/native": "^6.0.10",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.0.1",
+    "@testing-library/user-event": "^13.5.0",
+    "babel-preset-es2015": "^6.24.1",
+    "bootstrap": "^5.1.3",
+    "classes": "^0.3.0",
+    "firebase": "^9.8.1",
+    "gh": "^2.8.9",
+    "git": "^0.1.5",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-burger-menu": "^2.7.1",
+    "react-dom": "^18.0.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-use-navigate": "^0.1.1",
+    "react-with-firebase-auth": "^1.4.1",
+    "styled-components": "^5.3.5",
+    "use-history": "^1.4.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "html-loader": "^3.1.0"
+  }
+}

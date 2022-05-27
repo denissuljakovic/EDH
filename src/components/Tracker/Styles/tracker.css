@@ -1,0 +1,55 @@
+*{
+    height: 700px;
+}
+
+#topBox{
+    text-align: center;
+    height: 150px;
+    padding-top: 50px;
+    background-image: url("slika.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    
+}
+
+#middleBox{
+    padding-top: 180px;
+    height: 300px;
+    text-align: center;
+    background-image: url("calorieRing.png");
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: center;
+    margin: 0;
+}
+
+#bottomBox{
+    height: 300px;
+    background-color: white;
+}
+
+.h1{
+    font-size: 2px;
+}
+
+video {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  
+  }
+  .video-wrapper {
+    border: 2px solid #000;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+

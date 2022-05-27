@@ -1,0 +1,154 @@
+/*WORKOUT SECTION*/
+
+.glavnidio{
+    margin-left: 2cm;
+     margin-right: 2cm;
+}
+
+.workouts{
+    display: flex;
+      
+  }
+  
+  .header{
+      display: flex;
+  }
+  
+  #btn{
+    margin-right: 500px;
+  }
+  
+  #arw{
+      width: 120px;
+      height: 60px;
+      background-color: transparent;
+      
+    }
+    /*
+  #title{
+     
+          overflow: visible;
+          height: 30px;
+          border-style: solid;
+          border-color: black;
+          border-width: 0 0 1px 0;
+          border-radius: 20px;
+      }*/
+  
+  
+  
+  hr {
+      height: 12px;
+      border: 0;
+      box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+  }
+  
+  
+  
+  
+  
+  
+  h4{
+      text-align: center;
+      font-size: 30px;
+  }
+  button{
+      margin-right: 345px;
+  }
+  
+  #guy{
+      width: 420px;
+      height: 600px;
+  }
+  
+  .col{
+      margin: 20px;
+  }
+  #up{
+      display: flex;
+      
+  }
+  
+  .col-21{
+      margin-right: 550px;
+      
+  }
+  
+  #core{
+      display: flex;
+      align-items: center;
+      
+      
+   
+  }
+   .col-21{
+      padding-left: 100px;
+     
+      
+  }
+  
+  
+  #abs{
+      width: 420px;
+      height: 600px;
+     /* padding-right: 100px;*/
+  }
+  
+  #low{
+      display: flex;
+      align-items: center;
+  }
+  
+  #guys{
+      width: 420px;
+      height: 600px;
+  }
+  
+  .col-32{
+      padding-left: 100px;
+      
+  }
+  
+  #logo{
+  text-align: center;
+  }
+  
+  a{
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+  }
+  
+  a:active{
+      color: black;
+  }
+  a:link{
+      background-color: transparent;
+      text-decoration: none; 
+  }
+    
+    a:visited{
+      color: Black;
+      text-decoration: none;
+  }
+  
+  #btn{
+      background-color: transparent;
+      border: none;
+      margin-bottom: 30px;
+      cursor:pointer;
+  }
+  
+  /* UPPER BODY*/
+  
+  .row{
+      margin-bottom: 5px;
+      
+  }
+  
+  iframe{
+  
+      width:400px;
+      height: 250px;
+      margin:23px;
+    }

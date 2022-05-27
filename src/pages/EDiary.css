@@ -1,0 +1,22 @@
+
+.sekcija{
+    height: 600px;
+    width: 78vw;
+    align-items: center;
+    justify-content: center;
+        align-items: center;
+    justify-content: center;
+        display: flex;
+
+}
+.dugme{padding: 10px;
+    margin-left: -4cm;
+    font-size: 18px;
+    margin-bottom: 10px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+    }
+
+  

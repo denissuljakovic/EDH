@@ -1,0 +1,14 @@
+.FoodLog {
+    font-family: sans-serif;
+    text-align: center;
+    
+  }
+  body {
+  
+    background-color: white;
+  }
+  * {
+    padding: 0;
+    margin: 0;
+    
+  }

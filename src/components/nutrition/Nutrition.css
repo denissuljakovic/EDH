@@ -1,0 +1,78 @@
+.card-body{
+    width:80%;
+    height: 500px;
+}
+
+
+*{
+    height: fit-content;
+}
+/*TWO SECTIONS CONTAINING FOOD LOG AND TRACKER CLICKABLE BLOCK*/
+#up{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 400px;
+    padding-bottom: 100px;
+
+}
+#down{
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 400px;
+    }
+
+    /*CSS FOR TITLES IN THE BLOCKS*/
+#foodLogTitle{
+    color: black;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-left: 140px;
+    font-size: 50px;
+    margin-right: 10px;
+}
+#trackTitle{
+    color: black;
+    padding-top: 50px;
+    padding-right: 50px;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+/*TWO COLUMNS OF THE FOOD LOG PART*/
+.logLeftBox{
+    float: left;
+    max-width: 50%;
+    padding-left: 80px;
+    padding-top: 0px;
+    margin-bottom: 35px;
+    
+}
+.logRightBox{
+    float: right;
+    max-width: 50%;
+    margin-left: 5.5cm;
+}
+/*TWO COLUMNS OF THE TRACKER PART*/
+.trackLeftBox{
+    float: left;
+    max-width: 50%;
+    margin-left: 3cm;
+    margin-top: 50px;
+}
+.trackRightBox{
+    float: right;
+    max-width: 50%;
+    padding-right: 250px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+
+}
+
+#trackerBlock{
+    max-width: 550px;
+    max-height: 650px;
+
+}
